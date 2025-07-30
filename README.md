@@ -17,7 +17,7 @@
   Clone the repo and run the app:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Taha-suhail/Detrator_Task.git
 cd your-repo-name
 npm install
 npm run android   # for Android
